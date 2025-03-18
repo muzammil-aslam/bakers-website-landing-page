@@ -1,9 +1,8 @@
 import React from "react";
 import chocolatemni from "../images/img1.png";
-import nutellacake from "../images/orieoimg.png";
+import nutellacake from "../images/img2.png";
 import chillichips from "../images/img3.png";
-import chocolatecake from "../images/mtoreio.png";
-import favitempic from "../images/mtoreio.png";
+import chocolatecake from "../images/img4.png";
 import Image from "next/image";
 
 export default function Section4() {
